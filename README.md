@@ -1,5 +1,5 @@
 # demogit
 just a demo.
 <br>
-Author: Aastha Singh
+Author: Aastha (mnnit allahabad)
 
